@@ -165,14 +165,14 @@ I'm a **Computer Science and Engineering undergraduate at Delhi Technological Un
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonal-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0f172a" alt="Sonal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonal-ai&theme=tokyonight&hide_border=true&stroke=38bdf8&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=94a3b8&sideLabels=94a3b8&dates=64748b" alt="Sonal's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonalverdtu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0f172a" alt="Sonal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonalverdtu&theme=tokyonight&hide_border=true&stroke=38bdf8&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=94a3b8&sideLabels=94a3b8&dates=64748b" alt="Sonal's GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonal-ai&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" width="380px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalverdtu&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" width="380px" />
 </div>
 
 ---
